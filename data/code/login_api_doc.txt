@@ -1,0 +1,2 @@
+API endpoint: POST /login
+Validates user credentials and returns a session token.

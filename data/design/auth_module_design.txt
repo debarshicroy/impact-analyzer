@@ -1,0 +1,1 @@
+The authentication module verifies credentials using bcrypt and retrieves user data from the database.

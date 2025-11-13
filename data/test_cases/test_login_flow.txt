@@ -1,0 +1,1 @@
+Test case ensures login with valid credentials succeeds and invalid ones fail.
